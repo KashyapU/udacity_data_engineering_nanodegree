@@ -8,6 +8,6 @@ This repository contains my work for the [Udacity Data Engineering Nanodegree](h
 <p>In this section we learn: what data modeling means and understand it's importance, introduction to relational and NoSQL databases and cover the ACID and CAP properties for databases.</p>
 
 **Exercises for this Lesson**
-1. [Creating Normalized Tables](Lesson 2/Lesson 2 Exercise 1 Creating Normalized Tables.ipynb)
-2. [Creating Denormalized Tables](Lesson 2/Lesson 2 Exercise 2 Creating Denormalized Tables.ipynb)
-3. [Creating Fact and Dimension Tables with Star Schema](Lesson 2/Lesson 2 Exercise 3 Creating Fact and Dimension Tables with Star Schema.ipynb)
+1. [Creating Normalized Tables](/Lesson%202/Lesson%202%20Exercise%201%20Creating%20Normalized%20Tables.ipynb)
+2. [Creating Denormalized Tables](Lesson%202/Lesson%202%20Exercise%202%20Creating%20Denormalized%20Tables.ipynb)
+3. [Creating Fact and Dimension Tables with Star Schema](Lesson%202/Lesson%202%20Exercise%203%20Creating%20Fact%20and%20Dimension%20Tables%20with%20Star%20Schema.ipynb)
