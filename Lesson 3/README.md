@@ -20,7 +20,7 @@
 * [sql_queries.py](./sql_queries.py): Contains all the SQL queries needed to create & populate the Sparkify data warehouse.
 * [01_create_infrastructure.py](./01_create_infrastructure.py): Contains the code to instantiate the AWS resources for our data processing job.
 * [02_create_tables.py](./02_create_tables.py): Contains the functions that run the queries to create and drop the tables.
-* [03_etl.py](./03_etl.cfg): Contains the functions that run the queries to copy data from s3 to staging tables & insert data into the fact and dimension tables.
+* [03_etl.py](./03_etl.py): Contains the functions that run the queries to copy data from s3 to staging tables & insert data into the fact and dimension tables.
   
 
 ## How to run
